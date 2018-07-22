@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  padding: 0;
+  perspective: 1px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  transform-style: preserve-3d;
+}
+#box1{
+  height: 100vh;
+  width: 100%;
+  background-image: url("https://mk0david1uxxlqdmq6dt.kinstacdn.com/wp-content/uploads/revslider/parallaxzoomslices/waterfal.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+  text-align: center;
+  transform-style: preserve-3d;
+  position: relative;
+  font-family: "luna";
+  font-size: 32px;
+}
+
+#box2{
+  height: 100vh;
+  width: 100%;
+  background-image: url("../img/life.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box3{
+  height: 100vh;
+  width: 100%;
+  background-image: url("http://www.modafinilsale.com/data/out/13/228737715-assassins-creed-ii-wallpapers.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#box4{
+  height: 100vh;
+  width: 100%;
+  background-image: url("../img/immersionalt2.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+
+}
+h1{
+  font-size: 40px;
+  font-family: 'Fredericka The Great',cursive;
+  color: white;
+  margin-top: 15em;
+  text-align: center;
+}
+ 
+
+em{
+  color: white;
+}
+
+#text{
+  font-size: 25px;
+  color: black;
+  font-family:'Berkshire Swash',cursive;
+
+}
+#education{
+  font-size: 40px;
+ 
+}
+
+#scroll{
+  color: darkorange
+}
+#hobbies{
+  font-size: 32px;
+  font-family: 'EB Garamond',serif;
+  color: black;
+}
+#list{
+  font-size: 32px;
+  font-family: 'EB Garamond',serif;
+
+}
+
+#contact-me {
+  margin: 0;
+  padding: 10px;
+
+  background-color: whitesmoke;
+  text-align: center;
+}
+.contact-me li{
+  text-align: center;
+  list-style-type: none;
+  display: block;
+
+
+}
+.contact-me li a{
+  font-size: 50px;
+}
+
+.contact-me .fa-google-plus{
+  color: dimgray;
+}
+.contact-me .fa-facebook-square{
+  color: white;
+}
+.contact-me .fa-linkedin{
+  color:  white;
+}
