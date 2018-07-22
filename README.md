@@ -1,8 +1,7 @@
 # My Portfolio
 By Khalid
 # Description
-This is my personal portfolio. It gives one a complete overview on who I am as a person/developer, interest, hobbies and technical skills. The website is divided into sections: Jumbotron, Navigation, Introduction section (About Me), Skills & Strengths, Projects, and Contact section. Each section is wrapped in a div to make it easier to manipulate. Comments are located throughout the HTML and CSS files indicating where these sections start and end for easy references and debugging.
-
+This is my personal portfolio. It gives one a complete overview on who I am as a person/developer, interest, hobbies and technical skills.
 # Setup/Installation requirements
 An up-to-date browser, preferably chrome
 Internet connection
